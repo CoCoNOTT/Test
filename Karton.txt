@@ -2,7 +2,7 @@ Public class karton
 {
 public static void main(System[] args){
 
-System.out.println("EUT");
+System.out.println("Hello World");
 
 }
 }
